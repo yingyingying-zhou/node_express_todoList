@@ -1,0 +1,7 @@
+@import '~antd/dist/antd.css';
+.delete-line{
+  margin-left: 10px;
+}
+.submit-btn{
+  margin-left: 10px;
+}
